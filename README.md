@@ -21,13 +21,12 @@
 
 ## 🚀 Tecnologias que uso
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
-
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" width="32" style="filter: invert(100%);" /> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" width="32" style="filter: invert(100%);" /> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" width="32" style="filter: invert(100%);" /> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg" width="32" style="filter: invert(100%);" /> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" width="32" style="filter: invert(100%);" /> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="32" style="filter: invert(100%);" />
 </div>
 
 ###
