@@ -21,12 +21,12 @@
 
 ## 🚀 Tecnologias que uso
 <div align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" width="32" style="filter: invert(100%);" /> 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" width="32" style="filter: invert(100%);" /> 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" width="32" style="filter: invert(100%);" /> 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg" width="32" style="filter: invert(100%);" /> 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" width="32" style="filter: invert(100%);" /> 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="32" style="filter: invert(100%);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/>
 </div>
 
 ###
