@@ -35,6 +35,14 @@
 
 ###
 
+<div align="center">
+ 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31o6kvtul2622q36i4y54vbccgne&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0008f5&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+ 
+</div>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&text=Obrigado%20por%20visitar%20meu%20perfil!&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=000000&strokeWidth=-3&descSize=20&descAlign=50&descAlignY=50&color=8CE4FF"  />
 </div>
