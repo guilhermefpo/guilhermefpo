@@ -26,6 +26,18 @@
 </div>
 
 ###
+<div align="center">
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-fernando-portela-de-oliveira-191b6737b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_fernando12?igsh=N3c0N2o3YWY3ZG5z)
+</div>
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31o6kvtul2622q36i4y54vbccgne&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0008f5&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+ 
+</div>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermefpo/guilhermefpo/output/pacman-contribution-graph-dark.svg">
@@ -35,13 +47,7 @@
 
 ###
 
-<div align="center">
- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31o6kvtul2622q36i4y54vbccgne&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0008f5&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
- 
-</div>
 
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&text=Obrigado%20por%20visitar%20meu%20perfil!&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=000000&strokeWidth=-3&descSize=20&descAlign=50&descAlignY=50&color=8CE4FF"  />
